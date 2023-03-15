@@ -1,0 +1,22 @@
+body::before{
+    display: block;
+    content:'';
+    height: 60px;
+}
+
+
+.tweet{
+    color: #00aeff;
+}
+.snap{
+    color: yellow;
+}
+.insta{
+    color: purple;
+}
+.fb{
+    color: blue;
+}
+.youtube{
+    color: red;
+}
